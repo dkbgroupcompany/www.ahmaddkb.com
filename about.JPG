@@ -1,1 +1,4 @@
-
+git add about.JPG
+git commit -m 'add JPG file'
+git remote add origin https://github.com/JPG.git
+git push -u origin master
