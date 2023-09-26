@@ -9,4 +9,8 @@ window.onscroll = function() {
     else {
         header.classList.remove('navbarDark');
     }
+/* display background color black on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: black;
+}
 }
