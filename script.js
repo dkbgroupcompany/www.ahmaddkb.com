@@ -15,4 +15,3 @@ window.onscroll = function() {
 .navbarScroll.navbarDark {
     background-color: black;
 }
-}
