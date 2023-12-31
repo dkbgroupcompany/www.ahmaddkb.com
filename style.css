@@ -84,7 +84,7 @@
     color: black;
     position: fixed;
     top: 0;
-    
+    width: 100%;
 }
 
 @media{
@@ -109,6 +109,7 @@
     color: black;
     position: fixed;
     top: 0;
+    width: 100%;
 }
 #navbar-toggler-icon {
     background: black;
