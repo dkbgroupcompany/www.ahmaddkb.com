@@ -73,11 +73,30 @@
 #contact {
     padding-bottom: 4rem;
 }
-}
 #navbar-toggler-icon {
     color: black;
 }
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
     background-color: black;
+}
+
+@media {
+   #about, #services, #portfolio, #contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+    bgimage {
+    height: 100vh;
+    width: 100%;
+    background-image:url("background.png");
+    background-size:cover;
+    position:relative;
+    }
+    .navbarScroll.navbarDark {
+    background-color: black;
+}
+#navbar-toggler-icon {
+    color: black;
+}
 }
