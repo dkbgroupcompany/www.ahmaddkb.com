@@ -74,15 +74,15 @@
     padding-bottom: 4rem;
 }
 #navbar-toggler-icon {
-    background: black;
-    color: black;
+    background: #008000;
+    color: #008000;
     position: fixed;
     width: 100%;
 }
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background: black;
-    color: black;
+    background: #008000;
+    color: #008000;
     position: fixed;
     top: 0;
     width: 100%;
@@ -95,21 +95,20 @@
    }
     bgimage {
     height: 100vh;
-    width: 100%;
     background-image:url("background.png");
     background-size:cover;
     position:relative;
     }
     .navbarScroll .navbarDark {
-    background: black;
-    color: black;
+    background: #008000;
+    color: #008000;
     position: fixed;
     top: 0;
     width: 100%;
 }
 #navbar-toggler-icon {
-    background: black;
-    color: black;
+    background: #008000;
+    color: #008000;
     position: fixed;
     width: 100%;
    }
