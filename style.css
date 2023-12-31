@@ -74,11 +74,17 @@
     padding-bottom: 4rem;
 }
 #navbar-toggler-icon {
+    background: black;
     color: black;
+    position: fixed;
 }
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
+    background: black;
     color: black;
+    position: fixed;
+    top: 0;
+    
 }
 
 @media{
@@ -99,9 +105,14 @@
     position:relative;
     }
     .navbarScroll .navbarDark {
+    background: black;
     color: black;
+    position: fixed;
+    top: 0;
 }
 #navbar-toggler-icon {
+    background: black;
     color: black;
+    position: fixed
    }
 }
