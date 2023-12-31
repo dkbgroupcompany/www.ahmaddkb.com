@@ -76,16 +76,12 @@
 #navbar-toggler-icon {
     background: #008000;
     color: #008000;
-    position: fixed;
-    width: 100%;
+    
 }
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background: #008000;
-    color: #008000;
-    position: fixed;
-    top: 0;
-    width: 100%;
+    background-color: #008000;
+    
 }
 
 @media{
@@ -100,16 +96,10 @@
     position:relative;
     }
     .navbarScroll .navbarDark {
-    background: #008000;
-    color: #008000;
-    position: fixed;
-    top: 0;
-    width: 100%;
+    background-color: #008000;
+    
 }
 #navbar-toggler-icon {
-    background: #008000;
-    color: #008000;
-    position: fixed;
-    width: 100%;
-   }
+    background-color: #008000;
+}
 }
