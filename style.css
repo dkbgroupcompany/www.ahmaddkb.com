@@ -73,10 +73,13 @@
 #contact {
     padding-bottom: 4rem;   
 }
-.navbar-toggler{
+.navbar-toggler-icon {
     border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background: url(download.jpen);
 }
-@media{
+@media (max-width: 991px){
     #about, #services, #portfolio, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
@@ -87,5 +90,11 @@
     background-size:cover;
     position:relative;
     }
-
+    
+.navbar-toggler-icon {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background: url(download.jpen);
 }
+};
