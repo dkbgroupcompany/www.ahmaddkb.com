@@ -73,7 +73,7 @@
 #contact {
     padding-bottom: 4rem;   
 }
-#button i{
+.navbar-toggler{
     border-radius: 50%;
 }
 @media{
