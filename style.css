@@ -71,14 +71,11 @@
     padding-top: 4rem;
 }
 #contact {
-    padding-bottom: 4rem;
-}   
-/* display background color black on navbar scroll */
-.navbarScroll.navbarDark {
-    background-color: black;
-    
+    padding-bottom: 4rem;   
 }
-
+navbar-toggler i{
+    border-radius: 50%;
+}
 @media{
     #about, #services, #portfolio, #contact {
     margin-top: 4rem;
