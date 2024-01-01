@@ -72,15 +72,10 @@
 }
 #contact {
     padding-bottom: 4rem;
-}
-#navbar-toggler-icon {
-    background: #008000;
-    color: #008000;
-    
-}
+}   
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #008000;
+    background-color: black;
     
 }
 
@@ -95,11 +90,5 @@
     background-size:cover;
     position:relative;
     }
-    .navbarScroll .navbarDark {
-    background-color: #008000;
-    
-}
-#navbar-toggler-icon {
-    background-color: #008000;
-}
+
 }
