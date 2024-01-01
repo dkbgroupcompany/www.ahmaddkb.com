@@ -77,7 +77,7 @@
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    background: url(download.jpen);
+    background:url("download.jpen");
 }
 @media (max-width: 991px){
     #about, #services, #portfolio, #contact {
@@ -95,6 +95,7 @@
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    background: url(download.jpen);
-}
+    background: url("download. jpen");
+
+    }
 };
