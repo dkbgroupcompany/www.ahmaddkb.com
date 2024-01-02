@@ -73,11 +73,10 @@
 #contact {
     padding-bottom: 4rem;   
 }
-.navbar-toggler-icon {
+#button img {
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    background:url("download.jpen");
 }
 @media (max-width: 991px){
     #about, #services, #portfolio, #contact {
